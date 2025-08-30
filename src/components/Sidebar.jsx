@@ -17,7 +17,7 @@ import {
 } from "react-icons/fa";
 import { NavLink, useNavigate } from "react-router-dom";
 import SidebarHeader from "./SidebarHeader";
-import "../components/Sidebar.css";
+import "./Sidebar.css";
 
 export default function Sidebar() {
   const navigate = useNavigate();
