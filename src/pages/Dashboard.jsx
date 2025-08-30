@@ -80,7 +80,8 @@ const Dashboard = () => {
         {isDashboard ? (
           <>
             <h2 className="text-xl sm:text-2xl font-bold mb-6 text-center mt-3 sm:mt-5 pb-3 sm:pb-5">
-              Dashboard Overview
+            Judiciary Branch of Government <br />
+            Republic of Liberia
             </h2>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6">
